@@ -1,0 +1,18 @@
+/gps/particle	pi-
+/gps/pos/type	Beam	 
+/gps/pos/shape	Circle	 
+/gps/pos/centre	0	0.	0.	cm	 
+/gps/pos/radius	1	mm	 
+/gps/pos/sigma_r	0.1	mm
+/gps/ang/type cos
+/gps/ang/mintheta 0. deg
+/gps/ang/maxtheta 0. deg
+/gps/ang/minphi 0. deg
+/gps/ang/maxphi 0. deg
+/gps/ang/rot1 -1 0 0
+/gps/ang/rot2 0  1  0
+/gps/ene/type	Mono
+/gps/ene/mono	300	MeV
+
+/run/beamOn 500
+
